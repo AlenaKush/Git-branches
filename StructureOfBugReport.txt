@@ -1,0 +1,12 @@
+Summary
+[[3~[3~[3~[3~[3~[3~[3~[C[C[C[C[3~[3~[C[C[C[C[C[C[CBug reports's filds:
+	<Summary>
+[A[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[<>[DAuthor>
+[A[B<>[DSeverrity>[A[D[D[D[D[D[D[D[D[D[D[D$#[D[D[3~[2~[3~[C# Date[3~[3~[3~[C[2~ 
+[D
+[A[C[C[C[C[C[C[CAuthor[C[C[C[C[C>[A[D[D[D[D[D[D[D[D[[C[C[C[C[C[C[C[C[C[A<>[DAuthor>
+<>[DSummury[D[D[D[3~a[C[C>
+<>[DSeverity>
+<>[DPriority>
+<>[DStep to reproduce>[D[D[D[D[D[D[D[D[D[D[D[D[D[Ds[C[C[C[C[C[C[C[C[D[D[D[D[D[D[D[D [2~ [D[D[Cto reproduce>
+<Result>
